@@ -26,6 +26,8 @@ This is the current output of the model.
 
 We can see that it still has trouble with the exact locations of the bounding boxes, especially when there are multiple objects, but for now this is good enough.
 
+You can get pretrained model [here](https://drive.google.com/file/d/14xN9ZQR3PAuQlvFzpQK8TyaLA_47nM3k/view?usp=sharing)
+
 # Reference
 
 
